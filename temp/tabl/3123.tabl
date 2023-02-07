@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <account>
+    <website>1</website>
+    <description>1</description>
+    <login>1</login>
+    <password>1</password>
+  </account>
+  <account>
+    <website>1</website>
+    <description>1</description>
+    <login>1</login>
+    <password>1</password>
+  </account>
+</NewDataSet>
